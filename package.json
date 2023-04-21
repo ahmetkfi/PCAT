@@ -1,0 +1,25 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "Pcat Photo App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmetkfi/PCAT.git"
+  },
+  "keywords": [
+    "photo"
+  ],
+  "author": "ahmet kocyigit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmetkfi/PCAT/issues"
+  },
+  "homepage": "https://github.com/ahmetkfi/PCAT#readme",
+  "devDependencies": {
+    "prettier": "2.8.7"
+  }
+}
