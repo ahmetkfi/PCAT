@@ -142,7 +142,6 @@ dist
 .svelte-kit
 
 # Temporary Folders
-tmp/
-temp/
+public/
 
 # End of https://www.toptal.com/developers/gitignore/api/node
